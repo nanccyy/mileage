@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mileage/static/css/main.4fe064f5.chunk.css",
-    "main.js": "/mileage/static/js/main.fcf70a26.chunk.js",
-    "main.js.map": "/mileage/static/js/main.fcf70a26.chunk.js.map",
+    "main.css": "/mileage/static/css/main.2b4280bb.chunk.css",
+    "main.js": "/mileage/static/js/main.8d4f0071.chunk.js",
+    "main.js.map": "/mileage/static/js/main.8d4f0071.chunk.js.map",
     "runtime-main.js": "/mileage/static/js/runtime-main.bdc72863.js",
     "runtime-main.js.map": "/mileage/static/js/runtime-main.bdc72863.js.map",
-    "static/js/2.ebb82016.chunk.js": "/mileage/static/js/2.ebb82016.chunk.js",
-    "static/js/2.ebb82016.chunk.js.map": "/mileage/static/js/2.ebb82016.chunk.js.map",
+    "static/js/2.3dacdc39.chunk.js": "/mileage/static/js/2.3dacdc39.chunk.js",
+    "static/js/2.3dacdc39.chunk.js.map": "/mileage/static/js/2.3dacdc39.chunk.js.map",
     "index.html": "/mileage/index.html",
-    "precache-manifest.ab94c88d21e96e77db9210da1b995654.js": "/mileage/precache-manifest.ab94c88d21e96e77db9210da1b995654.js",
+    "precache-manifest.ad65f22ba86f4d9d842dd55b9f4f00d8.js": "/mileage/precache-manifest.ad65f22ba86f4d9d842dd55b9f4f00d8.js",
     "service-worker.js": "/mileage/service-worker.js",
-    "static/css/main.4fe064f5.chunk.css.map": "/mileage/static/css/main.4fe064f5.chunk.css.map",
-    "static/js/2.ebb82016.chunk.js.LICENSE.txt": "/mileage/static/js/2.ebb82016.chunk.js.LICENSE.txt",
+    "static/css/main.2b4280bb.chunk.css.map": "/mileage/static/css/main.2b4280bb.chunk.css.map",
+    "static/js/2.3dacdc39.chunk.js.LICENSE.txt": "/mileage/static/js/2.3dacdc39.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mileage/static/media/Gilroy-SemiBold.05bdf30b.ttf",
     "static/media/Team.scss": "/mileage/static/media/arrow_active.cdce98e1.svg",
     "static/media/Slider.scss": "/mileage/static/media/point_green_border.14f8129e.svg",
@@ -24,12 +24,15 @@
     "static/media/image5.jpg": "/mileage/static/media/image5.7dd4e4e2.jpg",
     "static/media/Logo.scss": "/mileage/static/media/logo.a5cdea8a.svg",
     "static/media/services1.svg": "/mileage/static/media/services1.fd912244.svg",
-    "static/media/services_img_reversed.svg": "/mileage/static/media/services_img_reversed.f5ff110d.svg"
+    "static/media/services_img_reversed.svg": "/mileage/static/media/services_img_reversed.f5ff110d.svg",
+    "static/media/video1.mp4": "/mileage/static/media/video1.4aa0a9b9.mp4",
+    "static/media/video2.mp4": "/mileage/static/media/video2.7f03ee2b.mp4",
+    "static/media/video3.mp4": "/mileage/static/media/video3.5957d4d2.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.bdc72863.js",
-    "static/js/2.ebb82016.chunk.js",
-    "static/css/main.4fe064f5.chunk.css",
-    "static/js/main.fcf70a26.chunk.js"
+    "static/js/2.3dacdc39.chunk.js",
+    "static/css/main.2b4280bb.chunk.css",
+    "static/js/main.8d4f0071.chunk.js"
   ]
 }
