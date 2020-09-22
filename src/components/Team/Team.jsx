@@ -41,17 +41,15 @@ export const Team = () => {
             testimonials={testimonials}
             main={main} />
           <div className="team__slider">
-            {main < lastIndex
-              ? <img className="team__miniature team__miniature_left"
+            {main < lastIndex &&
+              <img className="team__miniature team__miniature_left"
                 src={testimonials.find(person => person.id === shadow1).image}
                 alt="person_photo"
               >
               </img>
-              : ''
             }
             <div className="team__slider-inner-part">
               <div className="team__buttons">
-
                 <button
                   name="next"
                   className="team__button team__button_next"
@@ -61,7 +59,7 @@ export const Team = () => {
                   disabled={main === lastIndex}
                 >
                   Next
-            </button>
+                </button>
                 <button
                   name="prev"
                   className="team__button team__button_prev"
@@ -69,32 +67,29 @@ export const Team = () => {
                   disabled={main === 1}
                 >
                   Prev
-             </button>
+                </button>
               </div>
 
               <div className="team__names">
                 <p className="team__name">
-                  {main < lastIndex
-                    ? testimonials.find(person => person.id === shadow1).name
-                    : ''
+                  {main < lastIndex &&
+                    testimonials.find(person => person.id === shadow1).name
                   }
                 </p>
                 <p className="team__name">
-                  {main > 1
-                    ? testimonials.find(person => person.id === (main - 1)).name
-                    : ''
+                  {main > 1 &&
+                    testimonials.find(person => person.id === (main - 1)).name
                   }
                 </p>
               </div>
             </div>
-            {main > 1
-              ? <img
+            {main > 1 &&
+              <img
                 className="team__miniature team__miniature_right"
                 src={testimonials.find(person => person.id === (main - 1)).image}
                 alt="person_photo"
               >
               </img>
-              : ''
             }
           </div>
         </div>

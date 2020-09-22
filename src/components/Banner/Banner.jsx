@@ -8,7 +8,7 @@ import PropTypes from 'prop-types';
 
 import { gsap, ScrollTrigger } from "gsap/all";
 gsap.registerPlugin(ScrollTrigger);
- const list = ['W0LHTWG-UmQ', '_JUmf9GIBKQ', '79zkUWY31P4'];
+const list = ['W0LHTWG-UmQ', '_JUmf9GIBKQ', '79zkUWY31P4'];
 
 const Banner = ({ setIsBanner, isBanner }) => {
   const [linkName, setLinkName] = useState(list[0]);
@@ -31,9 +31,7 @@ const Banner = ({ setIsBanner, isBanner }) => {
   }, [intersection])
 
   const changeLink = (event) => {
-   
     const index = list.indexOf(linkName);
-
     const buttonName = event.target.name;
     if (buttonName === 'left') {
       if (index > 0) {
@@ -112,7 +110,12 @@ const Banner = ({ setIsBanner, isBanner }) => {
           }
         </div>
       </div>
-      <Slider changeLink={changeLink} activePointIndex={activePointIndex} />
+      <Slider changeLink={changeLink}
+        activePointIndex={activePointIndex}
+        setActivePointIndex={setActivePointIndex}
+        setLinkName={setLinkName}
+        list={list}
+      />
     </>
   );
 }
