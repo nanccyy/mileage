@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mileage/static/css/main.4fe064f5.chunk.css",
+    "main.css": "/mileage/static/css/main.f40c0b73.chunk.css",
     "main.js": "/mileage/static/js/main.cd062d6a.chunk.js",
     "main.js.map": "/mileage/static/js/main.cd062d6a.chunk.js.map",
     "runtime-main.js": "/mileage/static/js/runtime-main.bdc72863.js",
@@ -8,9 +8,9 @@
     "static/js/2.ebb82016.chunk.js": "/mileage/static/js/2.ebb82016.chunk.js",
     "static/js/2.ebb82016.chunk.js.map": "/mileage/static/js/2.ebb82016.chunk.js.map",
     "index.html": "/mileage/index.html",
-    "precache-manifest.84ea7734e20bebb2d180069151814bfa.js": "/mileage/precache-manifest.84ea7734e20bebb2d180069151814bfa.js",
+    "precache-manifest.5bb401c8e98ace4a276fc1caf4fb68e8.js": "/mileage/precache-manifest.5bb401c8e98ace4a276fc1caf4fb68e8.js",
     "service-worker.js": "/mileage/service-worker.js",
-    "static/css/main.4fe064f5.chunk.css.map": "/mileage/static/css/main.4fe064f5.chunk.css.map",
+    "static/css/main.f40c0b73.chunk.css.map": "/mileage/static/css/main.f40c0b73.chunk.css.map",
     "static/js/2.ebb82016.chunk.js.LICENSE.txt": "/mileage/static/js/2.ebb82016.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mileage/static/media/Gilroy-SemiBold.05bdf30b.ttf",
     "static/media/Team.scss": "/mileage/static/media/arrow_active.cdce98e1.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.bdc72863.js",
     "static/js/2.ebb82016.chunk.js",
-    "static/css/main.4fe064f5.chunk.css",
+    "static/css/main.f40c0b73.chunk.css",
     "static/js/main.cd062d6a.chunk.js"
   ]
 }
