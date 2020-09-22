@@ -99,7 +99,7 @@ export const Team = () => {
           </div>
         </div>
         <div>
-          < Gallery
+          <Gallery
             testimonials={testimonials}
             main={main}
             shadow1={shadow1}

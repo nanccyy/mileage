@@ -11,7 +11,7 @@ gsap.registerPlugin(ScrollTrigger);
  const list = ['W0LHTWG-UmQ', '_JUmf9GIBKQ', '79zkUWY31P4'];
 
 const Banner = ({ setIsBanner, isBanner }) => {
-  const [linkName, setLinkName] = useState('W0LHTWG-UmQ');
+  const [linkName, setLinkName] = useState(list[0]);
   const [videoisLoaded, setIsVideoLoaded] = useState(false);
   const [activePointIndex, setActivePointIndex] = useState(0);
   const sectionRef = useRef(null);

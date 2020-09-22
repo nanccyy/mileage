@@ -29,6 +29,7 @@ const Header = ({ isBanner, isSmallScreen, scrolled }) => {
             isDarkFont={isDarkFont}
             open={open}
             setOpen={setOpen}
+            isBanner={isBanner}
           />
         </section>
       </header>
