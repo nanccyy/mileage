@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce81e0376ff6270dad831272f6626c66",
+    "revision": "07671a53f2339dafa848438db3d6818c",
     "url": "/mileage/index.html"
   },
   {
-    "revision": "0d4375d35214f4e96d87",
-    "url": "/mileage/static/css/main.5bf4882d.chunk.css"
+    "revision": "badc124ed9f1feb815d9",
+    "url": "/mileage/static/css/main.3f159fce.chunk.css"
   },
   {
     "revision": "98819735d70831391334",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mileage/static/js/2.ebb82016.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d4375d35214f4e96d87",
-    "url": "/mileage/static/js/main.ff41d366.chunk.js"
+    "revision": "badc124ed9f1feb815d9",
+    "url": "/mileage/static/js/main.35ac799e.chunk.js"
   },
   {
     "revision": "0cc2f64e5e7e7b041400",
