@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mileage/static/css/main.3f159fce.chunk.css",
-    "main.js": "/mileage/static/js/main.35ac799e.chunk.js",
-    "main.js.map": "/mileage/static/js/main.35ac799e.chunk.js.map",
+    "main.js": "/mileage/static/js/main.92fba8f1.chunk.js",
+    "main.js.map": "/mileage/static/js/main.92fba8f1.chunk.js.map",
     "runtime-main.js": "/mileage/static/js/runtime-main.bdc72863.js",
     "runtime-main.js.map": "/mileage/static/js/runtime-main.bdc72863.js.map",
     "static/js/2.ebb82016.chunk.js": "/mileage/static/js/2.ebb82016.chunk.js",
     "static/js/2.ebb82016.chunk.js.map": "/mileage/static/js/2.ebb82016.chunk.js.map",
     "index.html": "/mileage/index.html",
-    "precache-manifest.4c086ff74bcb5029326c57e535fabb75.js": "/mileage/precache-manifest.4c086ff74bcb5029326c57e535fabb75.js",
+    "precache-manifest.8246941ba383cff830149163988495de.js": "/mileage/precache-manifest.8246941ba383cff830149163988495de.js",
     "service-worker.js": "/mileage/service-worker.js",
     "static/css/main.3f159fce.chunk.css.map": "/mileage/static/css/main.3f159fce.chunk.css.map",
     "static/js/2.ebb82016.chunk.js.LICENSE.txt": "/mileage/static/js/2.ebb82016.chunk.js.LICENSE.txt",
@@ -16,12 +16,12 @@
     "static/media/Team.scss": "/mileage/static/media/arrow_active.cdce98e1.svg",
     "static/media/Slider.scss": "/mileage/static/media/point_green_border.14f8129e.svg",
     "static/media/Services.scss": "/mileage/static/media/services_dot_active.81ca160b.svg",
-    "static/media/image.jpg": "/mileage/static/media/image.b603ad8e.jpg",
-    "static/media/image1.jpg": "/mileage/static/media/image1.9f2dcbe5.jpg",
-    "static/media/image2.jpg": "/mileage/static/media/image2.d30290e3.jpg",
-    "static/media/image3.jpg": "/mileage/static/media/image3.eef9037d.jpg",
-    "static/media/image4.jpg": "/mileage/static/media/image4.e41d2c86.jpg",
-    "static/media/image5.jpg": "/mileage/static/media/image5.7dd4e4e2.jpg",
+    "static/media/image.jpg": "/mileage/static/media/image.3987ad70.jpg",
+    "static/media/image1.jpg": "/mileage/static/media/image1.299a1c1f.jpg",
+    "static/media/image2.jpg": "/mileage/static/media/image2.7cb985d1.jpg",
+    "static/media/image3.jpg": "/mileage/static/media/image3.a0f828af.jpg",
+    "static/media/image4.jpg": "/mileage/static/media/image4.4700f4ca.jpg",
+    "static/media/image5.jpg": "/mileage/static/media/image5.54a953ce.jpg",
     "static/media/Logo.scss": "/mileage/static/media/logo.a5cdea8a.svg",
     "static/media/services1.svg": "/mileage/static/media/services1.fd912244.svg",
     "static/media/services_img_reversed.svg": "/mileage/static/media/services_img_reversed.f5ff110d.svg"
@@ -30,6 +30,6 @@
     "static/js/runtime-main.bdc72863.js",
     "static/js/2.ebb82016.chunk.js",
     "static/css/main.3f159fce.chunk.css",
-    "static/js/main.35ac799e.chunk.js"
+    "static/js/main.92fba8f1.chunk.js"
   ]
 }
