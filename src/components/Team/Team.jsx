@@ -1,4 +1,4 @@
-import React, { useState} from 'react';
+import React, { useState } from 'react';
 import './Team.scss';
 import { Gallery } from './Gallery/Gallery';
 import testimonials from '../../api/testimonials';
