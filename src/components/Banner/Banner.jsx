@@ -8,7 +8,7 @@ import PropTypes from 'prop-types';
 
 import { gsap, ScrollTrigger } from "gsap/all";
 gsap.registerPlugin(ScrollTrigger);
-const list = ['W0LHTWG-UmQ', '_JUmf9GIBKQ', '79zkUWY31P4'];
+const list = ['W0LHTWG-UmQ',  '79zkUWY31P4', 'EzKImzjwGyM'];
 
 const Banner = ({ setIsBanner, isBanner }) => {
   const [linkName, setLinkName] = useState(list[0]);
